@@ -106,7 +106,7 @@ Deleta o registro de ID `id` do banco.
 
 ## Collection - Insomnia
 
-A collection do Insomnia pode ser encontrada [aqui](https://github.com/diegomarques1/projeto-taxa-juros/blob/master/insomnia/Insomnia_Collection.json). Além das requisições descritas acima, ela também contém alguns cenários de exceção e um GET na API do Banco Central, para conseguir verificar se a API externa está on/off.
+A collection do Insomnia pode ser encontrada [aqui](https://github.com/diegomarques1/projeto-taxa-juros/blob/main/insomnia/Insomnia_Collection.json). Além das requisições descritas acima, ela também contém alguns cenários de exceção e um GET na API do Banco Central, para conseguir verificar se a API externa está on/off.
 
 # Setup
 
