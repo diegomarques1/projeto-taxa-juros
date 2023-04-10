@@ -160,7 +160,7 @@ Baixado o conteúdo do projeto, para executá-lo basta utilizar a IDE IntelliJ:
 
 Após um certo tempo, devem começar a aparecer informações no terminal, algo similar à imagem abaixo:
 
-![Screenshot](https://github.com/diegomarques1/projeto-taxa-juros/blob/feature/img/exemplo-spring-execu%C3%A7%C3%A3o.png)
+![Screenshot](https://github.com/diegomarques1/projeto-taxa-juros/blob/main/img/exemplo-spring-execu%C3%A7%C3%A3o.png)
 
 Se a aplicação continuar rodando, o projeto Spring Boot está funcionando.
 
@@ -180,11 +180,11 @@ Para utilizar a aplicação, recomendo o uso do Insomnia. Você pode importar a 
 
 Abaixo, seguem exemplos de como utilizar o Insomnia para acessar recursos da aplicação. A única diferença é que utilizei `_.base_url` como um apelido para o localhost: 
 - POST /onboarding/100
-![Screenshot](https://github.com/diegomarques1/projeto-taxa-juros/blob/feature/img/insomnia-onboarding.png)
+![Screenshot](https://github.com/diegomarques1/projeto-taxa-juros/blob/main/img/insomnia-onboarding.png)
 - GET /juros/10
-![Screenshot](https://github.com/diegomarques1/projeto-taxa-juros/blob/feature/img/insomnia-getbyid.png)
+![Screenshot](https://github.com/diegomarques1/projeto-taxa-juros/blob/main/img/insomnia-getbyid.png)
 - POST /juros
-![Screenshot](https://github.com/diegomarques1/projeto-taxa-juros/blob/feature/img/insomnia-post.png)
+![Screenshot](https://github.com/diegomarques1/projeto-taxa-juros/blob/main/img/insomnia-post.png)
 
 # Autor
 Feito por Diego Souza Lima Marques [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-souza-lima-marques-6a0a3b22b/)](https://www.linkedin.com/in/diego-souza-lima-marques-6a0a3b22b/) 
